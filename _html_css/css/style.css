@@ -3,7 +3,7 @@
 
 :root {
 	--dark-color-a: #38185b;
-	--dark-color-b: #38185b;
+	--dark-color-b: #4e2a84;
 	--light-color: #e6e9ff;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
@@ -16,7 +16,7 @@
 }
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Georgia', sans-serif;
 	font-size: 16px;
 	background: var(--light-color);
 	margin: 20px;
