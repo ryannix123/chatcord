@@ -43,14 +43,14 @@ a {
 
 .chat-container {
 	max-width: 1100px;
-	background: #fff;
+	background: #4e2a84;
 	margin: 30px auto;
 	overflow: hidden;
 }
 
 .chat-header {
 	background: var(--dark-color-a);
-	color: #fff;
+	color: #4e2a84;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	padding: 15px;
@@ -66,7 +66,7 @@ a {
 
 .chat-sidebar {
 	background: var(--dark-color-b);
-	color: #fff;
+	color: #4e2a84;
 	padding: 20px 20px 60px;
 	overflow-y: scroll;
 }
@@ -131,7 +131,7 @@ a {
 .join-container {
 	max-width: 500px;
 	margin: 80px auto;
-	color: #fff;
+	color: #4e2a84;
 }
 
 .join-header {
